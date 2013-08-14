@@ -15,11 +15,11 @@ DJANGO_ROOT_DIR = os.path.join(os.path.dirname(\
         os.path.realpath(__file__)), '..')
 
 # Make this unique, and don't share it with anybody.
-SECRET_KEY = '6ue@^pv4#42xyo-0@==9a0q41a(u9x04tf*udxyp)b)zd6$xl9'
+SECRET_KEY = '6ue@^pv4#42xyo-0@==9a0q41a(u9x04tf*udxyp)b)zd6$x20'
 
 COOKIR_PATH = os.path.join(DJANGO_ROOT_DIR, 'cookie.txt')
 
-PAGE_ID = '601677049'
+PAGE_ID = '601790458'
 LINKS = (
         ('My Blog', 'https://blog.blahgeek.com/', 'fui-location'), 
         ('iThuLife', 'http://weibo.com/ithulife', 'fui-cmd'), 
